@@ -2,7 +2,21 @@
 
 A Claude Code skill that takes a UI from a one-line idea to on-brand, shippable design, **in the right order**: brand foundation first, then components, screens, interactions, accessibility, and only then generation with `/design`.
 
+![Five screens from one app, all generated through this pipeline — one brand, because none of them were allowed to leave the tokens.](assets/on-brand-output.png)
+
 Most AI-generated UI looks the same because it is handed zero constraints. This skill front-loads the constraints (design tokens + a `CLAUDE.md` design-rules block) so the model can only produce on-brand output, then runs the generation last and verifies it against the rules.
+
+## Before / after
+
+Same screen, same prompt. The difference is the foundation the model was given before it generated.
+
+| Generic (no constraints) | On-brand (this pipeline) |
+|---|---|
+| ![Before: generic violet card stack](assets/before.png) | ![After: refactored against the tokens](assets/after.png) |
+
+It works because the brand lives in two files the model reads first:
+
+![The design tokens as a real screen: palette + type scale, the single source of truth](assets/tokens.png)
 
 ## The pipeline
 
