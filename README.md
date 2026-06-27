@@ -48,6 +48,16 @@ Or drop the folder into a UAMOS-style memory bank's `skills/` directory; it comp
 - `references/a11y-checklist.md` — the pre-generation accessibility gate
 - `references/verify-rules.md` — the post-generation verification checklist
 
+## Sponsored by Code Meet AI
+
+This skill is built and maintained by **[Code Meet AI](https://codemeetai.substack.com/?utm_source=github&utm_medium=readme&utm_campaign=design-skill)** — a newsletter on shipping real products with AI, by [@malik_chohra](https://x.com/malik_chohra).
+
+If it saved you time, the best thanks is a look at what powers it:
+
+- 📬 **Newsletter** → [codemeetai.substack.com](https://codemeetai.substack.com/?utm_source=github&utm_medium=readme&utm_campaign=design-skill)
+- 🧩 **Wire RN** (open-source generative-UI SDK) → [getwireai.com](https://getwireai.com/?utm_source=github&utm_medium=readme&utm_campaign=design-skill)
+- 📱 **AI Mobile Launcher** (the boilerplate this skill ships inside) → [aimobilelauncher.com](https://aimobilelauncher.com/?utm_source=github&utm_medium=readme&utm_campaign=design-skill)
+
 ## License
 
-MIT. By [@malik_chohra](https://x.com/malik_chohra) · [Code Meet AI](https://codemeetai.substack.com).
+MIT. By [@malik_chohra](https://x.com/malik_chohra) · [Code Meet AI](https://codemeetai.substack.com/?utm_source=github&utm_medium=readme&utm_campaign=design-skill).
