@@ -1,6 +1,19 @@
+<div align="center">
+
 # claude-design-idea-to-ready
 
-A Claude Code skill that takes a UI from a one-line idea to on-brand, shippable design, **in the right order**: brand foundation first, then components, screens, interactions, accessibility, and only then generation with `/design`.
+**From a one-line idea to on-brand, shippable design, in the right order.**
+
+A Claude Code skill that front-loads the constraints (design tokens + a `CLAUDE.md` design-rules block) so the model can only produce on-brand UI, then runs generation last and verifies it against the rules.
+
+[![license](https://img.shields.io/github/license/chohra-med/claude_design_skill.svg)](LICENSE)
+[![stars](https://img.shields.io/github/stars/chohra-med/claude_design_skill.svg?style=social)](https://github.com/chohra-med/claude_design_skill)
+
+Created by [**Malik Chohra**](https://getwireai.com?utm_source=github&utm_medium=readme&utm_campaign=creator) · Sponsored by [AI Mobile Launcher](https://aimobilelauncher.com?utm_source=github&utm_medium=readme&utm_campaign=sponsor) and [CasaInnov](https://casainnov.com?utm_source=github&utm_medium=readme&utm_campaign=sponsor)
+
+</div>
+
+---
 
 ![Five screens from one app, all generated through this pipeline — one brand, because none of them were allowed to leave the tokens.](assets/on-brand-output.png)
 
