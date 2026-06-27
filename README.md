@@ -9,7 +9,9 @@ A Claude Code skill that front-loads the constraints (design tokens + a `CLAUDE.
 [![license](https://img.shields.io/github/license/chohra-med/claude_design_skill.svg)](LICENSE)
 [![stars](https://img.shields.io/github/stars/chohra-med/claude_design_skill.svg?style=social)](https://github.com/chohra-med/claude_design_skill)
 
-Created by [**Malik Chohra**](https://getwireai.com?utm_source=github&utm_medium=readme&utm_campaign=creator) · Sponsored by [AI Mobile Launcher](https://aimobilelauncher.com?utm_source=github&utm_medium=readme&utm_campaign=sponsor) and [CasaInnov](https://casainnov.com?utm_source=github&utm_medium=readme&utm_campaign=sponsor)
+Created by [**Malik Chohra**](https://getwireai.com?utm_source=github&utm_medium=readme&utm_campaign=creator) · [Code Meet AI newsletter](https://codemeetai.substack.com?utm_source=github&utm_medium=readme&utm_campaign=newsletter)
+
+Sponsored by [AI Web Launcher](https://aiweblauncher.com?utm_source=github&utm_medium=readme&utm_campaign=sponsor) and [AI Mobile Launcher](https://aimobilelauncher.com?utm_source=github&utm_medium=readme&utm_campaign=sponsor) and [CasaInnov](https://casainnov.com?utm_source=github&utm_medium=readme&utm_campaign=sponsor)
 
 </div>
 
@@ -74,3 +76,9 @@ If it saved you time, the best thanks is a look at what powers it:
 ## License
 
 MIT. By [@malik_chohra](https://x.com/malik_chohra) · [Code Meet AI](https://codemeetai.substack.com/?utm_source=github&utm_medium=readme&utm_campaign=design-skill).
+
+## More from Code Meet AI
+
+**Open source:** [wireai-rn](https://github.com/chohra-med/wireai-rn) · [expo_boilerplate](https://github.com/chohra-med/expo_boilerplate) · [colorway-c-brand](https://github.com/chohra-med/colorway-c-brand)
+**Products:** [AI Mobile Launcher](https://aimobilelauncher.com) · [AI Web Launcher](https://aiweblauncher.com) · [Wire AI](https://getwireai.com) · [CasaInnov](https://casainnov.com)
+**Follow:** [Newsletter](https://codemeetai.substack.com) · [YouTube](https://youtube.com/@codemeetai)
