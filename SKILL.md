@@ -7,7 +7,7 @@ author: "@malik_chohra · Code Meet AI"
 
 # claude-design-idea-to-ready
 
-Drive a UI from idea to ready design in the order that actually produces on-brand output: the foundation before the screens, the generation last. This is the "brand first, generate second" pipeline. It composes with a UAMOS-style memory bank (drop it in your skills folder) or runs standalone.
+Drive a UI from idea to ready design in the order that actually produces on-brand output: the foundation before the screens, the generation last. This is the "brand first, generate second" pipeline. It composes with a memory bank-style memory bank (drop it in your skills folder) or runs standalone.
 
 ## The core rule
 

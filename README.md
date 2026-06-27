@@ -53,7 +53,7 @@ git clone git@github.com-personal:chohra-med/claude_design_skill.git
 cp -r claude_design_skill ~/.claude/skills/claude-design-idea-to-ready
 ```
 
-Or drop the folder into a UAMOS-style memory bank's `skills/` directory; it composes with the rest and self-triggers on design tasks.
+Or drop the folder into a memory bank-style memory bank's `skills/` directory; it composes with the rest and self-triggers on design tasks.
 
 ## Files
 
